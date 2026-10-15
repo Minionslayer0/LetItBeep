@@ -112,6 +112,7 @@ c469591@mail.batol.net
 * Add-on now continues to work when switchign audio devices
 * Custom beeps now also play for all NVDA beep calls (E.G. for capital letters, indentation levels, and any time another add-on beeps)
 * Added a separate beep length slider for indent level beeping
+* Beep volume is now effected by global NVDA audio volume
 
 ### V0.22
 
